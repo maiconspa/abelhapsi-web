@@ -2,7 +2,7 @@
   "name": "abelhapsi-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maiconspa.github.io/abelhapsi-web",
+  "homepage": "https://maiconspa.github.io",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/react-fontawesome": "^0.2.2",
