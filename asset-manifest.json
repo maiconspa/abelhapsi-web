@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abelhapsi-web/static/css/main.e6c13ad2.css",
-    "main.js": "/abelhapsi-web/static/js/main.ef9c079f.js",
-    "static/js/453.7a5829b4.chunk.js": "/abelhapsi-web/static/js/453.7a5829b4.chunk.js",
-    "static/media/abelhapsi-icon.svg": "/abelhapsi-web/static/media/abelhapsi-icon.74ffbc081a1604a62671591fd0682a3f.svg",
-    "index.html": "/abelhapsi-web/index.html",
-    "main.e6c13ad2.css.map": "/abelhapsi-web/static/css/main.e6c13ad2.css.map",
-    "main.ef9c079f.js.map": "/abelhapsi-web/static/js/main.ef9c079f.js.map",
-    "453.7a5829b4.chunk.js.map": "/abelhapsi-web/static/js/453.7a5829b4.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.a2c0e5de.js",
+    "static/js/453.7a5829b4.chunk.js": "/static/js/453.7a5829b4.chunk.js",
+    "static/media/abelhapsi-icon.svg": "/static/media/abelhapsi-icon.74ffbc081a1604a62671591fd0682a3f.svg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.a2c0e5de.js.map": "/static/js/main.a2c0e5de.js.map",
+    "453.7a5829b4.chunk.js.map": "/static/js/453.7a5829b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ef9c079f.js"
+    "static/js/main.a2c0e5de.js"
   ]
 }
